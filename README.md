@@ -23,7 +23,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) com sólida base t
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do Davis](https://github-readme-stats.vercel.app/api?username=davissxavier&show_icons=true&theme=dracula)
+![Estatísticas do Davis](https://github-readme-stats.vercel.app/api?username=davisxavier&show_icons=true&theme=dracula)
 
 
 ---
